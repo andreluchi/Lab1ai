@@ -1,0 +1,6 @@
+https://gist.github.com/Nicholas-Swift/003e1932ef2804bebef2710527008f44
+https://levelup.gitconnected.com/solve-a-maze-with-python-e9f0580979a1
+https://gist.github.com/timurbakibayev/dd2f35d9e00623c02e70fbf4b27c9af9
+https://note.nkmk.me/en/python-pillow-gif/
+https://levelup.gitconnected.com/a-star-a-search-for-solving-a-maze-using-python-with-visualization-b0cae1c3ba92
+https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2
